@@ -16,4 +16,12 @@
 - Ao final fiz uma intepolação do código HTML para cria-lo via JavaScript.
 - Utilizie os método .createElement() para criar uma div do conteúdo principal e depois .appendChild(), para adicionar a div criada à constante repositories.
 
+## Conclusão 
+
+### O programa obteve todos os repositórios que foram criados no meu perfil, bem como a data e a tecnologia que eu utilizei na construção dos mesmos.
+
  
+
+https://github.com/Coimbra777/Consumindo-API-Github/assets/103074944/c215dcd4-67f7-463f-b56d-5ad2c8f352c3
+
+
