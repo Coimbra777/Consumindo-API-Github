@@ -2,9 +2,8 @@
 
 ### Desenvolvi esse programa com o intuito de testar meus conhecimentos com consumo de API's .
 
-### No programa usei como exemplo a API do Github, onde pude através da linguagem de programação JavaScript , extrair informações dos meus repositórios,<br>como: Título, a data que foi criado, Link para o repositório , e o tipo de tecnologia usada .
-
-### Na construção do programa usei como referência tutorias no YouTube,documentação da Web , e aulas sobre requisições e consumo de API´s 
+### No programa usei como exemplo a API do Github, onde pude através da linguagem de programação JavaScript , extrair informações dos meus repositórios, como: <br> 
+- Título, a data que foi criado, Link para o repositório , e o tipo de tecnologia usada .
 
 ## Sobre a estrutura do programa:
 - Na construção da estrutura HTML, utilizei div's para segurar os conteúdos do título, data, link, language
